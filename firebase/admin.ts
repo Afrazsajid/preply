@@ -17,9 +17,12 @@ function initFirebaseAdmin() {
     });
   }
 
+  const db = getFirestore();
+  db.settings({ ignoreUndefinedProperties: true }); // ✅ Enable ignoring undefined properties
+
   return {
     auth: getAuth(),
-    db: getFirestore(),
+    db,
   };
 }
 
