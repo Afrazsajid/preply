@@ -111,7 +111,7 @@ export async function POST(req: Request) {
 
                         </div>
                       </div>
-                      <center><p><strong> <a style="text-decoration: none ; color: #000;" href="https://calendly.com/nisarcraft116/student-test">Confirm test date and time click here</a></strong></p></center>
+                      <center><p><strong> <a style="text-decoration: none ; color: #000;" href="https://prepli.vercel.app/studentpage?email=${email}">check your details on your portal</a></strong></p></center>
                      </body>
                     </html>`;
 

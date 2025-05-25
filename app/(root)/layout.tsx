@@ -4,6 +4,7 @@ import { ReactNode } from "react";
 import { redirect } from "next/navigation";
 
 import { isAuthenticated } from "@/lib/actions/auth.action";
+import { Toaster } from "sonner";
 
 const Layout = async ({ children }: { children: ReactNode }) => {
   const isUserAuthenticated = await isAuthenticated();
@@ -11,10 +12,11 @@ const Layout = async ({ children }: { children: ReactNode }) => {
 
   return (
     <div className="root-layout">
+      <Toaster />
       <nav>
-        <Link href="/" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-2 text-black">
           <Image src="/logo.svg" alt="MockMate Logo" width={38} height={32} />
-          <h2 className="text-primary-100">PrepWise</h2>
+          <h2 className="text-primary-100">SMITPortal</h2>
         </Link>
       </nav>
 
