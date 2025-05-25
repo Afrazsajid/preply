@@ -52,7 +52,7 @@
 | Voice Interface | EventLapse                          |
 | Text-to-Speech  | Devendra TTS (low-latency)          |
 | Automation      | Make.com                            |
-| Web Interface   | Next js                |
+| Web Interface   | Next js (https://prepli.vercel.app/call)              |
 | Database        | Vector DB (e.g., Pinecone/Weaviate) |
 | Data Logging    | Google Sheets (https://docs.google.com/spreadsheets/d/1cZDOybI5KKxMmEMbvx60f-koFgrqduONTSao8WAOo1I/edit?usp=drivesdk)           |
 | Email System    | Nodemail with nextjs            |
