@@ -49,7 +49,7 @@
 
 | Component       | Technology Used                     |
 | --------------- | ----------------------------------- |
-| Voice Interface | EventLapse                          |
+| Voice Interface | EventLabs                          |
 | Text-to-Speech  | Devendra TTS (low-latency)          |
 | Automation      | Make.com                            |
 | Web Interface   | Next js https://prepli.vercel.app/call             |
