@@ -226,14 +226,6 @@ const Page = () => {
                   </div>
                 </div>
               </div>
-              <div className="flex justify-center">
-                <Button
-                  onClick={downloadIdCard}
-                  className="mt-4 bg-teal-600 hover:bg-teal-700 text-white px-4 py-2 rounded-md shadow"
-                >
-                  Download ID Card
-                </Button>
-              </div>
 
               {/* Status Badge */}
               <div className="flex justify-center">
