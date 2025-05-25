@@ -117,7 +117,7 @@ export async function POST(req: Request) {
 
     const mailOptions = {
       from: "afrazsajid57@gmail.com",
-      to: "afrazsajid55@gmail.com",
+      to: `${email}`,
       subject: "Student ID Card",
       html: emailContent,
     };
