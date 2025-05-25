@@ -6,7 +6,7 @@ const Page = async () => {
 
   return (
     <>
-      <h3>Interview generation</h3>
+      <h3>call agent</h3>
 
       <Agent userName="me" userId={"hh"} type="generate" />
     </>
