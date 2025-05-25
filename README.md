@@ -20,7 +20,7 @@
 ### 3. **Real-Time Data Integration**
 
 * All collected data is **instantly fed into a shared Google Sheet** using **Make.com**.
-* **Live Sheet**: [Click here to view the real-time registration sheet](#) *(Insert your live sheet link here)*
+* **Live Sheet**: [Click here to view the real-time registration sheet](https://docs.google.com/spreadsheets/d/1cZDOybI5KKxMmEMbvx60f-koFgrqduONTSao8WAOo1I/edit?usp=drivesdk) 
   This transparency allows administrators and team members to verify and monitor data updates in real-time.
 
 ### 4. **Instant Email Confirmation + ID Card**
