@@ -1,4 +1,4 @@
-g
+
 # Sarah - Projective AI Voice Agent for Sailani
 
 **Sara** is a cutting-edge AI voice assistant built specifically for **Sailani Education Foundation** to handle **24/7 registration, support, and real-time interaction**. Designed with ease-of-use and automation in mind, Sara simplifies the user journey from registration to data integration, while maintaining full administrative transparency.
