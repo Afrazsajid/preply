@@ -34,7 +34,7 @@
 
 * Sara uses:
 
-  * **EventLapse** for live voice interaction.
+  * **EventLabs** for live voice interaction.
   * **Devendra TTS** for fast, natural-sounding text-to-speech with **minimal latency**.
   * **Vector database integration** to store and dynamically query prior interactions.
 
